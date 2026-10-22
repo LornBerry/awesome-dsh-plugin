@@ -2,5 +2,5 @@ url: https://github.com/LornBerry/dsh-memory-center
 name: LornBerry/dsh-memory-center
 category: memory
 description:
-  en: 'Local long-term memory for DSH: browse and edit entries in a panel, sort them into folders, switch per session whether they are injected into the conversation, and confirm model-written memories before they take effect.'
-  zh: 'DSH 的本地长期记忆库：在面板里浏览和编辑条目、用文件夹整理、逐会话决定是否注入对话，模型写入的记忆需用户确认后才生效。'
+  en: 'Local long-term memory for DSH: browse and edit entries in a panel, organize them into folders, choose per session whether to inject them, confirm model-written memories, and optionally sync across devices via your own Git or WebDAV.'
+  zh: 'DSH 的本地长期记忆库：在面板里浏览和编辑条目、用文件夹整理、逐会话决定是否注入对话，模型写入的记忆需确认后才生效，并可选同步到你自己的 Git 或 WebDAV 实现多设备。'
